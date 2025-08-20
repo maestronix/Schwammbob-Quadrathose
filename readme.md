@@ -7,7 +7,7 @@
 
 ## 📌 Quick Summary
 
-- **Projektstatus:** `XX / YY` Episoden fertig  
+- **Projektstatus:** `0 / 732` Episoden fertig  
 - **Letztes Update:** _YYYY-MM-DD_  
 - **Zieldateischema (Empfehlung):**  
 ```
