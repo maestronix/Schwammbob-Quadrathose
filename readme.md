@@ -9,14 +9,14 @@
 
 - **Projektstatus:** `0 / 732` Episoden fertig  
 - **Letztes Update:** _YYYY-MM-DD_  
-- **Zieldateischema (Empfehlung):**  
+- **Zieldateischema:**  
 ```
-  SpongeBob SquarePants (1999)/
-    Season 01/
-      SpongeBob SquarePants - S01E01 - Title.ext
-      SpongeBob SquarePants - S01E02 - Title.ext
-    Season 02/
-    Specials (S00)/
+  SpongeBob Schwammkopf (1999)/
+    S01/
+      SpongeBob.Schwammkopf.1999.S01E01.German.DL.1080p.WEB.h264.ext
+      SpongeBob.Schwammkopf.1999.S01E02.German.DL.1080p.WEB.h264.ext
+    S02/
+    S00/
 ```
 
 - **Quellen** 
