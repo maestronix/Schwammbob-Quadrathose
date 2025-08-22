@@ -7,8 +7,8 @@
 
 ## 📌 Quick Summary
 
-- **Projektstatus:** `0 / 732` Episoden fertig  
-- **Letztes Update:** _YYYY-MM-DD_  
+- **Projektstatus:** `41 / 732` Episoden fertig  
+- **Letztes Update:** _2025-08-22_  
 - **Zieldateischema:**  
 ```
   SpongeBob Schwammkopf (1999)/
