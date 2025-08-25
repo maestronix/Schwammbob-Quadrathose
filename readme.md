@@ -24,10 +24,11 @@
 ## **Quellen** 
 listing all warez sources per season/episode used for this.
 
-S01
-
   - SpongeBob.Schwammkopf.S01.GERMAN.DL.FS.1080p.WEB.H264-CNHD
-
+  - SpongeBob.Schwammkopf.S02.GERMAN.DL.FS.1080p.WEB.H264-CNHD
+  - SpongeBob.Schwammkopf.S03.GERMAN.DL.FS.1080p.WEB.H264-CNHD
+  - SpongeBob.Schwammkopf.S04.GERMAN.DL.FS.1080p.WEB.H264-CNHD
+  - SpongeBob.Schwammkopf.S05.German.DL.1080p.WEB.h264-TVNATiON
 ---
 
 ## 🗺️ Mapping & Entscheidungen
